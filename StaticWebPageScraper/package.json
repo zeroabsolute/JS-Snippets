@@ -1,0 +1,21 @@
+{
+  "name": "staticwebpagescraper",
+  "version": "1.0.0",
+  "description": "Web scraper for static web pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scraper",
+    "static",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Gerald Haxhi",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
